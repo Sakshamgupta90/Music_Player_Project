@@ -1,5 +1,5 @@
-# Music_Player_Project #
-----
+# Music Player Project #
+
 Build a music player having all the features found in a typical music player. User can able to add, play, pause and seek songs that have been added to the list.
 
 
